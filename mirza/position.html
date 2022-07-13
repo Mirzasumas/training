@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>position</title>
+<style>
+ div {
+   width:15%;
+   height:100px;
+   background-color:green;   
+ }
+#fixeddiv{
+ position:fixed;
+ background-color:red;
+ left:0px;
+ bottom:0px;
+ right:0px;
+} 
+#relativediv{
+ position:relative;
+ background-color:red;
+ left:10px;
+ top:10px;
+} 
+#stickydiv{
+ position:sticky;
+ background-color:pink;
+ left:0px;
+ right:0px;
+ top:0px;
+}
+</style>
+</head>
+<body> 
+<div id="fixeddiv">fixed</div><hr>
+<div id="relativediv">relative</div><hr>
+<div id="absolutediv">absolute</div><hr>
+<div id="stickydiv">sticky</div>
+
+</body>
+</html>

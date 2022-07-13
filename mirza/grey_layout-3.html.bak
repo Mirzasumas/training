@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>Grey Layout 3</title>
+<style>
+ div {
+   background-color:grey;
+   font-size:20px;
+   color:black;
+}
+
+#r1 {
+   height:60px;
+   margin-bottom:8px;
+   padding-top:30px;
+   padding-left:20px;
+}
+#r2 {
+   height:600px;
+   margin-bottom:8px;
+}
+#r2c1 {
+    background-color: white;
+    float:left;
+    height:600px;
+    width:22%;
+    padding-top:10px;
+}
+#r2c2 {
+     width:77%;
+     background-color:white;
+}
+#r2c2r1 {
+     height:100px;
+     margin-bottom:8px;
+     text-align:center;
+     padding-top:50px;   
+     background-color:grey;
+}
+#r2c2r2 {
+     height:392px;
+     text-align:center;
+     padding-top:1;
+
+}
+
+
+</style>
+</head>
+<body>
+<div id="r1">Logo</div>
+<div id="r2">
+<div id="r2c1">Side Bar <br>Navigation</div>
+<div id="r2c2">
+<div id="r2c2r1">Header/Banner</div>
+<div id="r2c2r2">Body Area</div>
+</div>
+</div>
+<div id="r3">Footer</div>
+</body>
+</html>

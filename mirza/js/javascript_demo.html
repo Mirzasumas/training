@@ -1,0 +1,49 @@
+<!doctype.html>
+<html lang="en">
+    <head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, iniotial-scale=1.0">
+<title> Javascript </title>
+<script type="text/javascript">
+    function internalAlert()
+    {
+        alert("internalalert");
+    }
+    function internalPrompt()
+    {
+        var name=prompt("enter internal msg");
+        document.write(name);
+
+        alert("hii"+name);
+    }
+    
+        function internalconfirm()
+        {
+        if(confirm("internal confirm"))
+        {
+            alert("yesssss");
+        
+        }else
+        {
+            alert("nooo");
+        }
+        }
+
+</script>  
+<script src="js/demo_external.js"></script>
+</head>
+    <body>
+        <button type="button" onclick="alert ('hello')"> InlineAlert </button>
+        <button type="button" onclick="prompt ('enter name')"> Inline promt </button>
+        <button type="button" onclick="confirm ('Are you sure?')"> Inline confirm </button>
+       <hr>
+        <button type="button" onclick="Internalalert ('hello')">Internal Alert </button>
+        <button type="button" onclick="Internalprompt ('hello')"> Internal prompt </button>
+        <button type="button" onclick="Internalconfirm ('hello')"> Internal confirm </button>
+        <hr>
+        <button type="button" onclick="externalalert ('hello')">external Alert </button>
+        <button type="button" onclick="externalprompt ('hello')"> external prompt </button>
+        <button type="button" onclick="externalconfirm ('hello')"> external confirm </button>
+    </body>
+    </html>

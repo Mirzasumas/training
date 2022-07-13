@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Grey Layout 1</title>
+<link href="css/bootstrap/bootstrap.css" rel="stylesheet"/>
+</head>
+<style>
+div{
+font-size:20px
+}
+
+				
+
+</style>
+<body> 
+
+<div class="container">
+	<div class="row"> 
+		<div class="col-lg-12" style= "background-color:gray ; padding:15px ; margin-bottom:10px" >Logo</div>
+	</div>
+	
+	<div class="row"> 
+		<div class="col-lg-12" style= "background-color:gray ; padding:10px ;text-align:center; margin-bottom:10px" >navigation</div>
+	</div>
+	
+	<div class="row"> 
+		<div class="col-lg-12" style= "background-color:gray ; padding:20px ;text-align:center; margin-bottom:10px" >Header/banner</div>
+	</div>
+	
+	<div class="row"> 
+		<div class="col-lg-3" style= "background-color:gray ; padding:20px ;text-align:center; margin-bottom:10px" >side bar</div>
+		<div class="col-lg-8" style= "background-color:gray ; padding:20px ;text-align:center; margin-bottom:10px" >Body area</div>
+	</div>
+	
+	
+</div>
+
+<h1 style="background-color:pink">fuck off </h1>
+
+
+</body>
+<style>

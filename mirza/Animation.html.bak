@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Animation</title>
+<style> 
+div { 
+background-color : pink;
+height : 100px;
+width : 200px;
+margin-top : 50px;
+transition : 0.2s ease;
+margin: 25px auto;
+
+}
+#transxy:hover{
+transform: translate(20px,20px);
+}
+#rotate:hover{
+
+transform: rotate(90deg);
+}
+#rotate3d:hover {
+
+transform: rotate3d(90,20,20,45deg);
+}
+#opacity:hover {
+opacity:0.5
+}
+#overflow {
+
+overflow: auto; 
+}
+
+#borderradius:hover{
+
+border-radius: 20px;
+padding: 20px;
+background-color:pink;
+margin-top:40px;
+}
+
+</style>
+</head>
+<body>
+
+<div id="transxy">translate(x,y)
+</div><hr/>
+<div id="rotate">rotate(90 deg)
+</div><hr/>
+<div id="rotate3d">rotate3d()
+</div>
+<div id="opacity">opacity
+</div><hr/>
+<div id="overflow">overflow overflow overflowertgsergrthrthoverflow overflow overflow overflow overflow overflow overflow overflow overflow  overflow overflow overflow overflow overflow overflow overflow overflow 
+</div><hr/>
+<div id="borderradius">border radiusoverflowertgsergrthrtrflow overflow overflow overflow overflow overflow
+</div>
+</body>
+</html>
+

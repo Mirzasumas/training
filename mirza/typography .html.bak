@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>sumas mirza</title>
+</head>
+<body>
+<p title ="silver oak university ">sou fjdkjdsfkj jfks 
+<abbr title="silver oak university ">sou </abbr>
+<hr/>
+<h4>27<sup>th</sup>june 2022</h4>
+<h3>o <sub> 2 </sub> </h3>
+<figure>
+<img src="C:\Users\Student\Pictures\Screenshots\abc.png" width="200px" alt="no img">
+
+<figcaption> ss </figcaption>
+</figure>
+<hr/>
+<strike> menu </strike>
+<hr/>
+<del> menu </del>
+<hr/>
+<div> no margin, new line </div>
+<div> no margin, new line </div>
+<div> no margin, new line </div>
+<div> no margin, new line </div>
+<div> no margin, new line </div>
+<hr />
+<span> no margin, no new line </span>
+<span> no margin, no new line </span>
+<span> no margin, no new line </span>
+<span> no margin, no new line </span>
+<span> no margin, no new line </span>
+<hr/>
+<p> new line margin top and bottom </p>
+<p> new line margin top and bottom </p>
+<p> new line margin top and bottom </p>
+<p> new line margin top and bottom </p>
+<p> new line margin top and bottom </p>
+<hr/>
+<blockquote>new line,left margin, right margin, top margin,bottom margin </blockquote>
+<blockquote>new line,left margin, right margin, top margin,bottom margin </blockquote>
+<blockquote>new line,left margin, right margin, top margin,bottom margin </blockquote>
+<blockquote>new line,left margin, right margin, top margin,bottom margin </blockquote>
+<blockquote>new line,left margin, right margin, top margin,bottom margin </blockquote>
+<hr/>
+<u> underline </u>
+<ins> insertion </ins><hr>
+<q> hello </q>
+<video src="c:/video.mp4" width="200px" control autoplay muted>
+</body>
+</html>

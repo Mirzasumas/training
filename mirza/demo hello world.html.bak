@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>hello world</title>
+</head>
+<body>
+<h1>hello world</h1>
+<h2>hello world</h2>
+<h3>hello world</h3>
+<h4>hello world</h4>
+<h5>hello world</h5>
+<h6>hello world</h6>
+</body>
+</html>
+<hr>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<div>hello world</div>
+<hr>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<span>hello world</span>
+<hr>
+<img src="C:\Users\Student\Pictures\Screenshots\abc.png" alt="no image" width ="200px">
+<hr>
+<b>hello world</b>
+<strong>hello world</strong>
+<br>
+<i>hello world</i>
+<ul>hello world
+<li>hello world</li>
+<li>hello world</li>
+<li>hello world</li>
+<li>hello world</li>
+<li>hello world</li>
+</ul>
+<ol>hello world
+<li>hello world</li>
+<li>hello world</li>
+<li>hello world</li>
+<li>hello world</li>
+<li>hello world</li>
+</ol>
+<a href="www,google.com">google</a>
+<br>
+<p> aksdfehuihudi uduervuve</p>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<html>
+<head>
+<title> hower list </title>
+</head>
+<style>
+li ul {
+display: none
+}
+li:hover + ul { 
+display:block
+}
+</style>
+<body>
+<ul>
+	<li> Google
+		<ul>
+		
+			<li> Gmail     
+				<ul>
+				<li> Sign in</li>
+				<li> Sign up
+				<ul>
+				<li> Sign in with google</li>
+				<li> Sign in with facebook</li>
+				</li>
+				</ul>
+			</li>
+			</ul>
+			<li> Maps      </li>
+			<li> Youtube   </li>
+			<li> Classroom </li>
+			
+		</ul>
+		<li>
+			Facebook</li>
+			<li>Amazon</li>
+			<li>Tinder</li>
+			
+	</li>
+</ul>
+
+</body>
+</html>
